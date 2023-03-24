@@ -277,7 +277,7 @@ if __name__ == "__main__":
     input_dir = "preprocess"
     output_dir = "preprocess_out"
     split_sil = False
-    use_preprocessing = True # for set samplerate to 44100, channel to mono
+    use_preprocessing = False (use_preprocessing = False)
     use_norm = True
     use_extract = True
 
